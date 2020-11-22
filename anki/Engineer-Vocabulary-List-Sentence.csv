@@ -1,0 +1,125 @@
+すでに3つチケットを取っているので、今週は取れません。,I can't take a ticket this week because I have already taken 3.
+昨日、プルリクを出しました。,I made a pull request yesterday. 
+今、Xを開発しています。,I'm developing X now.
+修正は今日中に終わると思います。,I think I'll revise it by the end of today.
+XをYにマージしました。,I merged X with Y.
+このチケットは、Kenさんと一緒に進めています。,I'm working on this ticket with Ken.
+システムがちゃんと動いてないことがわかった。,I realized that the system was not working properly. 
+来週のリリースには間に合いそうです。,It seems that we'll make the release next week.
+QAしてもらえる状態のものがありますか。,Is there anything ready for QA?
+課題が見つかった。,We found some issues.
+要件は明日、テックリード(TL)に共有します。,I'll share requirements with TLs tomorrow.
+まだ仕様が決まってない。,The specs haven't been decided yet.
+まだ仕様が固まっていません。,The specs haven't taken shape yet.
+それによって(プロジェクトに)支障が出ています。,It interferes with it (our project).
+これは、お客様に影響があるインシデントじゃないです。,This is not an incident that has an effect on customers.
+これから原因を調べます。,I will look into the causes now.
+マネージャーに相談する。,I'll consult with my manager.
+何か困ってることがありますか。,Do you have any difficulties?
+これはteam Bと連携してやっていきます。,We are aligned with team B to do this (task).
+あとでテックリード(TL)とsyncしておきます。,I will sync with TL later.
+目標を設定する。,I'll set goals / I am setting goals.
+先週修正したけど、Jiraに反映されてません。,"I edited it last week, but it isn't reflected on Jira (yet)."
+そのやり方は、効率がよさそう。,That method seems efficient.
+詳細はdocsを見てください。,Please check the docs for details.
+どんなインシデントだったか詳しく教えてもらえますか。,Could you tell me about the incident in detail?
+まだ会社の方針が決まってない。,The company policy has not been decided yet.
+ケンさんの話への補足なんですけど、、、,"Let me add something to what Ken said,"
+このやり方が効果的だと思います。,I think this way is effective.
+先週、OKRを達成しました。,We achieved our OKR last week.
+プロジェクトについて報告します。,I will report on the project.
+それはEMが議論しているところです。,EMs are discussing it now.
+ちょっと不具合があるので、今日中に直します。,"There are some defects, so I'll fix it by the end of the day."
+これは、順調に進んでいます。,This is working well.
+タスクの量が多すぎます。,There are too many tasks.
+具体的にどんなインシデントでしたか。,Could you expain the incident more concretely?
+QAのリソースが厳しい状況です。,We're in a tough situation in terms of QA resources.
+現状を説明します。,I'll explain about the present situation.
+まずは、進捗確認をしましょう。,Let's start with a progress check.
+優先順位を決めたほうがいいと思います。,I think we should decide the priority.
+残っているチケットはありますか。,Are there any tickets left?
+それって、もう着手してますか？,Have you already initiated it? 
+最近忙しすぎるので、タスクの量を調整したほうがいいいと思っています。,I'm thinking I should adjust my workload because I've been too busy these days.
+全員で認識を合わせたいです。,I'd like to make sure everyone's on the same page.
+認識がずれてないか確認したいです。,I'd like to make sure there's no misunderstanding between us.
+スケジュールが変更しています。,The schedule has been changed.
+来週からキャンペーンが開始します。,We will start a campaign next week.
+このプロジェクトは、前倒しで進めましょう,Let's move up this project. (Ex: from next qtr to this qtr)
+コードレビューは、来週以降の予定です,We're planning to do a code review sometime after next week.
+締切はいつですか。,When is the due date?
+他のミーティングがあって、ちょっと遅れるので、先に始めてください。,Please go ahead with the meeting without me as I'm running late due to another meeting.
+話したいトピックは、事前に書いておいてください。,Please write the topics you want to talk about in advance.
+これは来週リリースなので、早めにやった方がいいと思います。,I think we should work on this earlier because we will release it next week.
+一旦、このやり方で進めましょう。,"Let's move forward in this way, temporarily. "
+すべてテスト環境に反映しました。,Everything has been reflected in the test environment.
+ネット環境が悪くて、業務に支障が出ています。,"The internet environment (ex: wifi) here is bad, which is hindering our business."
+どんな機能があったら、もっとお客様のためになると思う?,What features do you think would be more beneficial for our customers?
+これは、ちゃんと運用ができていません。,That operation is not working properly. 
+QAの観点からすると、このタスクの優先順位は低いです。,"From QA's point of view, the priority of this task is low."
+どれが一番重要な問題ですか。,Which one is the most important issue?
+画面共有してもらえる？,Can you share your screen?
+昨日、デプロイ、完了しました。,I completed the deployment yesterday.
+動作確認はいつしますか。,When are you going to test the operation?
+これは来週実装します,We're going to implement this next week.
+(それは、)バ グを直したので、今は安定しています。,It's stable now since I've resolved the bugs.
+オンコールのときに、問題が発生しました。,An issue occurred when I was on call.
+これは、他のチームが対応してくれるので、うちのチームはしなくていいです。,"For this issue, our team doesn't need to deal with it since another team will."
+Jiraに同じ内容のチケットが２つあるので、こっちは削除しますね。,I'll delete this because there are two tickets with the same content on Jira.
+すみません、修正したあと、保存し忘れました。,"Sorry, I forgot to save it after I fixed it."
+ロールバックのやり方は今検討中です。,We're now thinking about how to roll it back.
+このチケットに関係してる人って、誰だっけ？,Who's the person related to this ticket?
+weekly sync ミーティングは、今後も継続していきましょう。,Let's continue the weekly sync meetings as we've been doing.
+この目標を達成したかどうかをどうやって測りますか。,How do you measure if you've achieved your goal or not?
+この画面は検索しにくいですね。,This screen layout makes it difficult to use the search function.
+リリースの時期は、調整中です。,The release period is being adjusted.
+スケジュールは未確定です。,The schedule hasn't been decided yet.
+チーム内のコミュニケーション不足が、問題になっています。,The lack of communication among team members is becoming a problem.
+今月は、リリースが多くて、みんな余裕があんまりない。,We don't have time to spare since we have a lot of releases this month.
+システムが正常に動いてないので、今日中に鈴木さんが確認する予定になっています。,"Since the system isn't working normally, Suzuki-san is going to check on it today."
+これはリリースが来週なので、最優先で進めたほうがいいと思います。,I think it's better to make this the top priority because the release is next week.
+困ったことがあったら、直接マネージャーに相談してください。,Please talk to your manager directly if you have any problems.
+今、このチケットをやってる途中ですか。,Are you in the middle of working on this ticket?
+返金処理は、昨日、完了しました。,I completed the refund process yesterday.
+サイトへのアクセスは、どの時間帯が一番集中しますか。,What time is access to the site most concentrated? 
+昨日の夜、システムに遅延が発生しました。,A system delay happened last night. 
+明日、バージョンアップする作業をします。,I'll work on updating this tomorrow.
+この業務は、どこのチームが担当してるか知ってる？,Do you know which team is responsible for this work?
+話したいトピックがある人は、議事録に追加しておいてくださいね。,Please add the topics you want to talk about to the notes.
+何か提案がある人は、明日までに私にDMしてください。,"If you want to suggest anything, please DM me by tomorrow."
+新しいサービスを導入する時期はまだ決まってません。,The timing of implementing the new service hasn't been decided yet.
+夜中にアクセスが集中して、サービスが一時的に落ちました。,The service went down temporarily late last night because of a spike in access.
+今Q対応しないチケットは、次のSprintに移動しておきます。,Tickets that we won't deal with this Q will be moved to the next sprint.
+すみません、他のミーティングと被ってるので、明日のスタンドアップミーティングに参加できません。,"Sorry, I can't join tomorrow's stand up because of a schedule conflict."
+"【状況：ミーティングに出席中】
+ すみません、次のミーティングがあるので、先に抜けますね。","[Situation: In a meeting]
+Sorry, I need to leave now because I have another meeting."
+来月はけっこう忙しくなると思うので、みなさん、今のうちにゆっくり休んでくださいね。,Please take it easy now since we're going to be quite busy next month.
+このチケットは、ギリギリになりそうですが、締切までに終わると思います。,"It'll be really tight, but I think I'll just barely get the ticket done by the deadline."
+基本的に、来Qのみなさんのアサインは、今Qと変更ありません。,"Basically, everyone's assignments won't change much from this Q to next Q."
+ちなみに、いつぐらいまでにリリースの時期が決まるか、わかりますか。,"Also, do you know when the release period will be decided? Approximately?"
+お客様視点で考えてみて。,Think about it from the customer's point of view.
+まだ10分ぐらいあるので、ちょっと雑談でもしましょうか。,"We still have about 10 minutes left, shall we just chat? "
+今は、テストの準備をしている段階です。,I'm in the preparation phase of the test now.
+既存のソースを見て、考えてみます。,I'll check the existing sources and then think about it.
+先週、それに似た事例がありました。,There was a similar case last week.
+リリースを早めると、QAの品質を保つのは難しくなると思います。,I think it'll be difficult to maintain the QA quality if we move the release date up.
+返金処理は、いつ完了しそうですか。,When do you think we'll finish processing the refund?
+最近、障害が多く発生している。,A lot of system errors have been happening these days.
+今のところ、クリティカルな障害は起きてません。,There are no critical failures yet. 
+ちょっと待って、Chromeの挙動がおかしい。,"Hold on, Chrome is acting weird. "
+来週QAする予定のやつ、ある？,Is there something you plan to do QA for next week? 
+リリースまでのスケジュールを作成したので、まだ見てない人は、今日中に確認してください。,"I've made a schedule for the next release, so please check it by the end of today if you haven't."
+ABテストを設計するときの注意点については、ここを読んどいてください。,Please check here for the important points about planning AB tests.
+この資料は、全メンバーに展開されています。,This document is now open to everyone.
+この件、もう少し詰めた方がいいですね。,We should think about this more in order to decide the details. 
+このプロジェクトは、佐藤さんに任せました。,I've delegated this project to Sato-san.
+見積もると、だいたいトータルで2ヶ月かかります。,I estimate it will take about 2 months in total
+この情報は、お客様IDに紐づいています。,This information is linked to customer ID.
+こんな感じです。,It's like this.
+ここに書いてあるトピック以外に何か話したいことありますか。,Is there anything else you want to talk about besides the topics written here?
+同時に担当できるプロジェクトの数には限界があります。,There's a limit to the number of projects we can handle at the same time.
+これを解決しておかないと、結局、リリース直前に問題が出てくる。,"If we don't solve this problem, in the end it'll happen just before the release. "
+このチケットはほぼ終わりました。,I've mostly finished this ticket.
+そもそも、このミーティングの目的はなんでしたっけ？,What was the point of this meeting in the first place?
+どんどん意見を言ってくださいね。,Let's all share our opinions one after the other. 
+これはQA側で対応します。,"OK, the QA side will deal with this."
